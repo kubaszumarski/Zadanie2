@@ -9,7 +9,7 @@ library(stringr)
 library(gtools)
 library(xml2)
 
-
+#scrapowanie działa bezbłędnie przy zmaksymalizowanym oknie przeglądarki
 
 remDr<-remoteDr(remoteServerAddr="http://localhost",
                 port=4444,
